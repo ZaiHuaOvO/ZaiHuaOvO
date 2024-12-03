@@ -1,9 +1,6 @@
-## Hi There 👋
+## Hello 👋
 
-![博客搭建交流群](https://img.shields.io/badge/QQ-446840401-red.svg "博客搭建交流群")
-![webkettle交流群](https://img.shields.io/badge/vx-zaihua_huahua-green.svg "webkettle交流群")
-![Mail Badge](https://img.shields.io/badge/-ZyZy1724@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ZyZy1724@gmail.com)
----
+![博客搭建交流群](https://img.shields.io/badge/QQ-446840401-red.svg "博客搭建交流群")![webkettle交流群](https://img.shields.io/badge/vx-zaihua_huahua-green.svg "webkettle交流群")![Mail Badge](https://img.shields.io/badge/-ZyZy1724@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ZyZy1724@gmail.com)
 
 <img align="right" width='300' alt="GIF" src="https://api.flowersink.com/img/猫娘全身.jpg" />
 
@@ -27,6 +24,9 @@
 
 - [个人网站](https://flowersink.com/)
 - [掘金](https://juejin.cn/user/4002664676073741)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiHuaOvO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
