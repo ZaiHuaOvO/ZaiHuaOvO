@@ -16,7 +16,6 @@
 
 - 💻 &#160; ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS&logoColor=red)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=F5094C)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🔧 &#160;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
