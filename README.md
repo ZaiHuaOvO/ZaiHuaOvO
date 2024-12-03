@@ -8,7 +8,7 @@
 
 ### I'm ZaiHua
 
-- A Married Front-End Engineer
+- A Front-End Engineer
 - 🌱 Currently working in Chengdu, China.
 - 💬 Ask me about Angular, TypeScript and my projects on [ZyZy1724@gmail.com](mailto:ZyZy1724@gmail.com)
 
