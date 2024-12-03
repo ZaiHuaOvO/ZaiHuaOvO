@@ -27,7 +27,7 @@
 - [掘金](https://juejin.cn/user/4002664676073741)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiHuaOvO&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiHuaOvO&layout=compact&count_private=true&hide=Scss,Less)](https://github.com/anuraghazra/github-readme-stats)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
