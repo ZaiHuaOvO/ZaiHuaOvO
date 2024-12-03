@@ -1,8 +1,6 @@
 ## Hello 👋
-
-![qq](https://img.shields.io/badge/QQ-446840401-red.svg "博客搭建交流群")
-![vx](https://img.shields.io/badge/vx-zaihua_huahua-green.svg "webkettle交流群")
 ![Mail](https://img.shields.io/badge/-ZyZy1724@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ZyZy1724@gmail.com)
+![QQ](https://img.shields.io/badge/QQ-446840401-red.svg "QQ")
 
 <img align="right" width='400' alt="GIF" src="https://api.flowersink.com/img/猫娘全身.jpg" />
 
