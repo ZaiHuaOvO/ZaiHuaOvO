@@ -27,8 +27,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiHuaOvO&layout=compact&count_private=true&hide=Scss,Less&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaiHuaOvO&show_icons=true&theme=dracula&hide=contribs,issues,prs)
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
 ⭐️ From [ZaiHua](https://github.com/ZaiHuaOvO)
 
