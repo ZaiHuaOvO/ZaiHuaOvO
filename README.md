@@ -10,7 +10,7 @@
 
 ### 技术栈
 
-- 前端：Angular（主要在用的），Ng-zorro
+- 前端：Angular（主要在用的），ng-zorro
 - 后端：NestJS
 - 数据库：MySQL
 - 其他：Markdown
