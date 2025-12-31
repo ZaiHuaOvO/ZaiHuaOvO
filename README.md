@@ -1,16 +1,14 @@
-## Hello 👋
+## 你好
+
 ![Mail](https://img.shields.io/badge/-ZyZy1724@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ZyZy1724@gmail.com)
-![QQ](https://img.shields.io/badge/QQ-446840401-red.svg "QQ")
+
+我叫**再花**，一位前端小B，定居于成都。
+
+如果对于我、我的项目有所疑问，可以给我写邮件。
 
 <img align="right" width='400' alt="GIF" src="https://api.flowersink.com/img/猫娘全身.jpg" />
 
-### I'm ZaiHua
-
-- A Front-End Engineer
-- 🌱 Currently working in Chengdu, China.
-- 💬 Ask me about Angular, TypeScript and my projects on [ZyZy1724@gmail.com](mailto:ZyZy1724@gmail.com)
-
-### 🛠 技术栈 | Tech Stack
+### 技术栈
 
 - 💻 &#160; ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS&logoColor=red)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -21,11 +19,5 @@
 
 ### 关于我
 
-- [个人网站](https://flowersink.com/)
+- [花墨](https://flowersink.com/)（个人网站）
 - [掘金](https://juejin.cn/user/4002664676073741)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiHuaOvO&layout=compact&count_private=true&hide=Scss,Less&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-⭐️ From [ZaiHua](https://github.com/ZaiHuaOvO)
-
