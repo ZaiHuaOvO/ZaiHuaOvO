@@ -1,4 +1,4 @@
-## 你好
+## 你好呀
 
 ![Mail](https://img.shields.io/badge/-ZyZy1724@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ZyZy1724@gmail.com)
 
@@ -10,12 +10,10 @@
 
 ### 技术栈
 
-- 💻 &#160; ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS&logoColor=red)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=F5094C)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- 🔧 &#160;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 前端：Angular（主要在用的），Ng-zorro
+- 后端：NestJS
+- 数据库：MySQL
+- 其他：Markdown
 
 ### 关于我
 
