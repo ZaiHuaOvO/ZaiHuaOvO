@@ -1,34 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=30&duration=3000&pause=500&color=F7A8B8&center=true&vCenter=true&width=435&lines=ฅ+o+ω+o+ฅ+喵呜~" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=30&duration=3000&pause=500&color=F7A8B8&center=true&vCenter=true&width=435&lines=%E0%B8%85%20o%20%CF%89%20o%20%E0%B8%85%20%E5%96%B5%E5%91%9C~" alt="Typing SVG" />
 
 </div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr style="border: none;">
-<td width="275" valign="top" style="border: none; padding-right: 24px;">
-  <img src="./猫娘全身.jpg" alt="猫娘全身" width="275" />
-</td>
-<td valign="top" style="border: none;">
-    你好呀，我是 <b>再花</b> —— 一个想要变得有趣的灵魂<br><br>
-    住在成都的 Angular 前端攻城狮，一只编程咪娘<br><br>
-    喜欢打游戏、写博客、和<b>方方大人</b> 一起摸鱼 💕<br><br>
-    日常含妻量超标，狗粮拉满<br>
-    介意的话……也来不及了！<br><br>
-    <b>- 最近在做什么 -</b><br><br>
-<p align="left">
+<div align="left">
+
+<img align="left" src="./猫娘全身.jpg" alt="猫娘全身" width="275" hspace="12" />
+
+你好呀，我是 **再花** —— 一个想要变得有趣的灵魂<br>
+住在成都的 Angular 前端攻城狮，一只编程咪娘<br>
+喜欢打游戏、写博客、和**方方大人** 一起摸鱼 💕<br>
+日常含妻量超标，狗粮拉满
+介意的话……也来不及了！<br>
+<b>- 最近在做什么 -</b><br><br>
+
 <a href="https://flowersink.com" target="_blank">
-    <img src="https://img.shields.io/badge/-花墨_博客-8B5A2B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/-花墨 | 再花的个人博客-8B5A2B?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a><a href="https://tool.flowersink.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-工具箱-F7A8B8?style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-再花的工具箱-F7A8B8?style=for-the-badge&logo=JavaScript&logoColor=black" />
   </a><br>
     <b>花墨</b> — Angular 20 + NestJS 驱动的个人博客，写技术、写随笔、写方方 ✍️<br>
-    <b>工具箱</b> — 集合了我和朋友想要的实用小工具（持续收集灵感中……）<br>
-</p>
+    <b>工具箱</b> — 集合了我和朋友想要的实用小工具（收集灵感中……）<br>
 
-</td>
-</tr>
-</table>
+<br clear="all" />
+
+</div>
 
 ### 🛠️ 技术栈
 
