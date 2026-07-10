@@ -12,8 +12,8 @@
 住在成都的 Angular 前端攻城狮，一只编程咪娘<br><br>
 喜欢打游戏、写博客、和**方方大人** 一起摸鱼 💕<br><br>
 日常含妻量超标，狗粮拉满<br><br>
-介意的话……也来不及了！<br><br>
-<b>- 最近在做什么 -</b><br><br>
+介意的话……也来不及了！<br><br><br>
+<b>- 最近在做什么 -</b><br>
 
 <a href="https://flowersink.com" target="_blank">
     <img src="https://img.shields.io/badge/-花墨 | 再花的个人博客-8B5A2B?style=for-the-badge&logo=googlechrome&logoColor=white" />
