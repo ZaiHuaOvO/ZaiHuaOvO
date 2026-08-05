@@ -49,8 +49,8 @@
 ### 📊 GitHub 摸鱼记录
 
 <p align="center">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=ZaiHuaOvO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=stars,issues,contribs&title_color=F7A8B8&icon_color=F7A8B8&text_color=555&bg_color=fffafc" />
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZaiHuaOvO&layout=compact&hide_border=true&title_color=F7A8B8&text_color=555&bg_color=fffafc&langs_count=6&hide=scss,less" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaiHuaOvO&bg_color=fffafc&color=F7A8B8&line=F7A8B8&point=555555&area=true&area_color=FFC9DE&border_color=FFD9E6&radius=10" alt="GitHub 摸鱼活动图" />
+
 </p>
 
 ### 📬 找我玩
