@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/ZaiHuaOvO" target="_blank">
-    <img src="https://ghchart.rshah.org/F7A8B8/ZaiHuaOvO" alt="再花的 GitHub 摸鱼热力图" />
+    <img src="./activity-graph.svg" alt="再花最近 31 天的摸鱼折线图" />
   </a>
 </p>
 
