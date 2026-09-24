@@ -49,8 +49,9 @@
 ### 📊 GitHub 摸鱼记录
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZaiHuaOvO&bg_color=fffafc&color=F7A8B8&line=F7A8B8&point=555555&area=true&area_color=FFC9DE&border_color=FFD9E6&radius=10" alt="GitHub 摸鱼活动图" />
-
+  <a href="https://github.com/ZaiHuaOvO" target="_blank">
+    <img src="https://ghchart.rshah.org/F7A8B8/ZaiHuaOvO" alt="再花的 GitHub 摸鱼热力图" />
+  </a>
 </p>
 
 ### 📬 找我玩
@@ -58,10 +59,6 @@
 <p align="center">
   <a href="mailto:ZyZy1724@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ZyZy1724@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://qm.qq.com/q/446840401" target="_blank">
-    <img src="https://img.shields.io/badge/QQ-446840401-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" />
   </a>
 </p>
 
