@@ -8,44 +8,42 @@
   </defs>
   <rect x="0.5" y="0.5" width="799" height="219" rx="12" fill="#fffafc" stroke="#ffd9e6"/>
   <text x="46" y="26" font-size="13" font-weight="600" fill="#b07a8a">最近 31 天摸鱼记录</text>
-  <text x="778" y="26" text-anchor="end" font-size="11" fill="#b9a0a8">08-25 → 09-24 · 共 303 次贡献</text>
+  <text x="778" y="26" text-anchor="end" font-size="11" fill="#b9a0a8">08-27 → 09-26 · 共 289 次贡献</text>
   <line x1="46" y1="184.0" x2="778" y2="184.0" stroke="#f7e9f0" stroke-width="1"/><text x="36" y="187.5" text-anchor="end" font-size="10" fill="#b9a0a8">0</text>
   <line x1="46" y1="148.5" x2="778" y2="148.5" stroke="#f7e9f0" stroke-width="1"/><text x="36" y="152.0" text-anchor="end" font-size="10" fill="#b9a0a8">8</text>
   <line x1="46" y1="113.0" x2="778" y2="113.0" stroke="#f7e9f0" stroke-width="1"/><text x="36" y="116.5" text-anchor="end" font-size="10" fill="#b9a0a8">16</text>
   <line x1="46" y1="77.5" x2="778" y2="77.5" stroke="#f7e9f0" stroke-width="1"/><text x="36" y="81.0" text-anchor="end" font-size="10" fill="#b9a0a8">24</text>
   <line x1="46" y1="42.0" x2="778" y2="42.0" stroke="#f7e9f0" stroke-width="1"/><text x="36" y="45.5" text-anchor="end" font-size="10" fill="#b9a0a8">32</text>
-  <path d="M 46.0,175.1 L 70.4,130.8 L 94.8,121.9 L 119.2,95.3 L 143.6,184.0 L 168.0,184.0 L 192.4,170.7 L 216.8,55.3 L 241.2,152.9 L 265.6,59.8 L 290.0,117.4 L 314.4,144.1 L 338.8,184.0 L 363.2,175.1 L 387.6,175.1 L 412.0,161.8 L 436.4,144.1 L 460.8,166.3 L 485.2,175.1 L 509.6,184.0 L 534.0,157.4 L 558.4,108.6 L 582.8,139.6 L 607.2,108.6 L 631.6,68.6 L 656.0,184.0 L 680.4,117.4 L 704.8,73.1 L 729.2,175.1 L 753.6,135.2 L 778.0,135.2 L 778.0,184 L 46.0,184 Z" fill="url(#area)"/>
-  <path d="M 46.0,175.1 L 70.4,130.8 L 94.8,121.9 L 119.2,95.3 L 143.6,184.0 L 168.0,184.0 L 192.4,170.7 L 216.8,55.3 L 241.2,152.9 L 265.6,59.8 L 290.0,117.4 L 314.4,144.1 L 338.8,184.0 L 363.2,175.1 L 387.6,175.1 L 412.0,161.8 L 436.4,144.1 L 460.8,166.3 L 485.2,175.1 L 509.6,184.0 L 534.0,157.4 L 558.4,108.6 L 582.8,139.6 L 607.2,108.6 L 631.6,68.6 L 656.0,184.0 L 680.4,117.4 L 704.8,73.1 L 729.2,175.1 L 753.6,135.2 L 778.0,135.2" fill="none" stroke="#f7a8b8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="46.0" cy="175.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="70.4" cy="130.8" r="2.4" fill="#f7a8b8"/>
-  <circle cx="94.8" cy="121.9" r="2.4" fill="#f7a8b8"/>
-  <circle cx="119.2" cy="95.3" r="2.4" fill="#f7a8b8"/>
-  <circle cx="192.4" cy="170.7" r="2.4" fill="#f7a8b8"/>
-  <circle cx="216.8" cy="55.3" r="2.4" fill="#f7a8b8"/>
-  <circle cx="241.2" cy="152.9" r="2.4" fill="#f7a8b8"/>
-  <circle cx="265.6" cy="59.8" r="2.4" fill="#f7a8b8"/>
-  <circle cx="290.0" cy="117.4" r="2.4" fill="#f7a8b8"/>
-  <circle cx="314.4" cy="144.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="363.2" cy="175.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="387.6" cy="175.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="412.0" cy="161.8" r="2.4" fill="#f7a8b8"/>
-  <circle cx="436.4" cy="144.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="460.8" cy="166.3" r="2.4" fill="#f7a8b8"/>
-  <circle cx="485.2" cy="175.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="534.0" cy="157.4" r="2.4" fill="#f7a8b8"/>
+  <path d="M 46.0,121.9 L 70.4,95.3 L 94.8,184.0 L 119.2,184.0 L 143.6,170.7 L 168.0,55.3 L 192.4,152.9 L 216.8,59.8 L 241.2,117.4 L 265.6,144.1 L 290.0,184.0 L 314.4,175.1 L 338.8,175.1 L 363.2,161.8 L 387.6,144.1 L 412.0,166.3 L 436.4,175.1 L 460.8,184.0 L 485.2,157.4 L 509.6,108.6 L 534.0,139.6 L 558.4,108.6 L 582.8,68.6 L 607.2,184.0 L 631.6,117.4 L 656.0,73.1 L 680.4,175.1 L 704.8,135.2 L 729.2,135.2 L 753.6,184.0 L 778.0,184.0 L 778.0,184 L 46.0,184 Z" fill="url(#area)"/>
+  <path d="M 46.0,121.9 L 70.4,95.3 L 94.8,184.0 L 119.2,184.0 L 143.6,170.7 L 168.0,55.3 L 192.4,152.9 L 216.8,59.8 L 241.2,117.4 L 265.6,144.1 L 290.0,184.0 L 314.4,175.1 L 338.8,175.1 L 363.2,161.8 L 387.6,144.1 L 412.0,166.3 L 436.4,175.1 L 460.8,184.0 L 485.2,157.4 L 509.6,108.6 L 534.0,139.6 L 558.4,108.6 L 582.8,68.6 L 607.2,184.0 L 631.6,117.4 L 656.0,73.1 L 680.4,175.1 L 704.8,135.2 L 729.2,135.2 L 753.6,184.0 L 778.0,184.0" fill="none" stroke="#f7a8b8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="46.0" cy="121.9" r="2.4" fill="#f7a8b8"/>
+  <circle cx="70.4" cy="95.3" r="2.4" fill="#f7a8b8"/>
+  <circle cx="143.6" cy="170.7" r="2.4" fill="#f7a8b8"/>
+  <circle cx="168.0" cy="55.3" r="2.4" fill="#f7a8b8"/>
+  <circle cx="192.4" cy="152.9" r="2.4" fill="#f7a8b8"/>
+  <circle cx="216.8" cy="59.8" r="2.4" fill="#f7a8b8"/>
+  <circle cx="241.2" cy="117.4" r="2.4" fill="#f7a8b8"/>
+  <circle cx="265.6" cy="144.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="314.4" cy="175.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="338.8" cy="175.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="363.2" cy="161.8" r="2.4" fill="#f7a8b8"/>
+  <circle cx="387.6" cy="144.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="412.0" cy="166.3" r="2.4" fill="#f7a8b8"/>
+  <circle cx="436.4" cy="175.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="485.2" cy="157.4" r="2.4" fill="#f7a8b8"/>
+  <circle cx="509.6" cy="108.6" r="2.4" fill="#f7a8b8"/>
+  <circle cx="534.0" cy="139.6" r="2.4" fill="#f7a8b8"/>
   <circle cx="558.4" cy="108.6" r="2.4" fill="#f7a8b8"/>
-  <circle cx="582.8" cy="139.6" r="2.4" fill="#f7a8b8"/>
-  <circle cx="607.2" cy="108.6" r="2.4" fill="#f7a8b8"/>
-  <circle cx="631.6" cy="68.6" r="2.4" fill="#f7a8b8"/>
-  <circle cx="680.4" cy="117.4" r="2.4" fill="#f7a8b8"/>
-  <circle cx="704.8" cy="73.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="729.2" cy="175.1" r="2.4" fill="#f7a8b8"/>
-  <circle cx="753.6" cy="135.2" r="2.4" fill="#f7a8b8"/>
-  <circle cx="778.0" cy="135.2" r="2.4" fill="#f7a8b8"/>
-  <text x="46.0" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">8/25</text>
-  <text x="192.4" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">8/31</text>
-  <text x="338.8" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/6</text>
-  <text x="485.2" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/12</text>
-  <text x="631.6" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/18</text>
-  <text x="778.0" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/24</text>
+  <circle cx="582.8" cy="68.6" r="2.4" fill="#f7a8b8"/>
+  <circle cx="631.6" cy="117.4" r="2.4" fill="#f7a8b8"/>
+  <circle cx="656.0" cy="73.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="680.4" cy="175.1" r="2.4" fill="#f7a8b8"/>
+  <circle cx="704.8" cy="135.2" r="2.4" fill="#f7a8b8"/>
+  <circle cx="729.2" cy="135.2" r="2.4" fill="#f7a8b8"/>
+  <text x="46.0" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">8/27</text>
+  <text x="192.4" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/2</text>
+  <text x="338.8" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/8</text>
+  <text x="485.2" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/14</text>
+  <text x="631.6" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/20</text>
+  <text x="778.0" y="206" text-anchor="middle" font-size="10" fill="#b9a0a8">9/26</text>
 </svg>
