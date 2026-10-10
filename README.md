@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<img align="left" src="./猫娘全身.jpg" alt="猫娘全身" width="275" hspace="12" />
+<img align="left" src="https://api.flowersink.com/img/粉毛再花全身.png" alt="猫娘全身" width="275" hspace="12" />
 
 你好呀，我是 **再花** —— 一个想要变得有趣的灵魂<br><br>
 住在成都的 Angular 前端攻城狮，一只编程咪娘<br><br>
